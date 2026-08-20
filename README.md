@@ -10,18 +10,17 @@ A responsive, role-based rental property marketplace built with Next.js 15 (App 
 
 | Resource | Link |
 |---|---|
-| **Frontend Repo** | https://github.com/your-username/rentnest-frontend |
-| **Live Frontend** | https://rentnest-app.vercel.app |
-| **Backend API** | https://rent-nest-gules.vercel.app |
+| **Live Frontend** | https://rent-nest-frontend-theta.vercel.app/ |
+| **Backend API** | https://rent-nest-gules.vercel.app/ |
 | **Demo Video** | https://drive.google.com/file/d/xxx/view |
 
 ## 🔑 Demo Credentials
 
 | Role | Email | Password |
 |---|---|---|
-| Admin | admin@rentnest.com | admin123 |
-| Landlord | (add your test landlord email) | (password) |
-| Tenant | (add your test tenant email) | (password) |
+| Admin | trump@gmail.com | 123456 |
+| Landlord | adip@gmail.com | 123456 |
+| Tenant | asip@gmail.com | 123456 |
 
 ---
 
@@ -34,7 +33,6 @@ A responsive, role-based rental property marketplace built with Next.js 15 (App 
 - **HTTP Client:** Axios
 - **Notifications:** Sonner (toast notifications)
 - **Payments:** Stripe Checkout (redirect flow)
-- **Route Protection:** Next.js Middleware (role-based)
 
 ---
 
