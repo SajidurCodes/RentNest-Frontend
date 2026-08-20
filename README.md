@@ -12,7 +12,7 @@ A responsive, role-based rental property marketplace built with Next.js 15 (App 
 |---|---|
 | **Live Frontend** | https://rent-nest-frontend-theta.vercel.app/ |
 | **Backend API** | https://rent-nest-gules.vercel.app/ |
-| **Demo Video** | https://drive.google.com/file/d/xxx/view |
+| **Demo Video** | https://drive.google.com/file/d/116xLYL4kTWQVFfwmfNbYP5SH4ujdorYQ/view?usp=sharing |
 
 ## 🔑 Demo Credentials
 
